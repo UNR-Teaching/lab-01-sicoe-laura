@@ -1,0 +1,13 @@
+3.The file newfile.txt was added to the directory. Including > allowed a new file to be created and added.
+5.On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   newfile.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	answers.txt
+6. It tells me what was added to which file
+
